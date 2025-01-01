@@ -66,26 +66,9 @@ Follow these steps to get started with **MomoAI-NPC-Eliza**.
 - **WSL 2** (For Windows Users)  
 
 ### Installation  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-org/MomoAI-NPC-Eliza.git
-   cd MomoAI-NPC-Eliza
-   ```
+Note: The project is currently under internal testing, and a full version is not yet available.
 
-2. Install dependencies:  
-   ```bash
-   pnpm i
-   ```
-
-3. Build and start the project:  
-   ```bash
-   pnpm build && pnpm start
-   ```
-
-4. Start the client:  
-   ```bash
-   pnpm start:client
-   ```
+We are actively refining the framework and will provide detailed installation and usage instructions once the project is ready for public use. Stay tuned for updates!
 
 ### Configuration  
 - Copy the example environment file and configure it:  
