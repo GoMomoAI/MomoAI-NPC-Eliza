@@ -162,7 +162,7 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for m
 If you find this project useful, please give us a star 🌟 on GitHub to help us grow!  
 
 ```plaintext
-git clone https://github.com/your-org/MomoAI-NPC-Eliza.git
+git clone https://github.com/GoMomoAI/MomoAI-NPC-Eliza.git
 ```
 
 ---
