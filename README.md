@@ -1,38 +1,38 @@
-```markdown
-# **MomoAI-NPC-Eliza** 🤖✨  
-**Revolutionizing Gaming with AI-Powered NPCs and Eliza Framework**
+
+# MomoAI-NPC-Eliza 🤖✨  
+**Revolutionizing Gaming with AI-Powered NPCs and the Eliza Framework**
 
 ---
 
-## **🌌 Introduction**  
-Welcome to **MomoAI-NPC-Eliza**, an open-source project that combines the cutting-edge capabilities of the **Eliza framework** with the innovative vision of **MomoAI 3.0**. This repository is dedicated to building **intelligent, self-sustaining NPCs** that transcend traditional game characters and seamlessly integrate into dynamic, blockchain-enabled ecosystems.
+## 🌌 Introduction  
+Welcome to **MomoAI-NPC-Eliza**, an open-source project that combines the cutting-edge capabilities of the **Eliza framework** with the innovative vision of **MomoAI 3.0**.  
 
 Our mission is to redefine gaming by creating **living, evolving virtual worlds** powered by AI, Web3, and decentralized technologies.
 
 ---
 
-## **🚀 Features**
+## 🚀 Features  
 
-### **1. AI-Powered NPCs**  
+### 1. AI-Powered NPCs  
 - **Context-Aware Interactions**: NPCs respond dynamically to player input using state-of-the-art AI models (OpenAI, Llama, Anthropic, etc.).  
 - **Multi-Agent Collaboration**: NPCs can interact with each other and players, fostering emergent gameplay.
 
-### **2. Web3 Integration**  
+### 2. Web3 Integration  
 - **Self-Tradable Wallets**: NPCs are equipped with their own Web3 wallets.  
-- **Decentralized Transactions**: NPCs can trade, create, and interact with blockchain assets (NFTs, tokens, etc.).
+- **Decentralized Transactions**: NPCs can trade, create, and interact with blockchain assets (NFTs, tokens, etc.).  
 
-### **3. Dynamic Scene Generation**  
+### 3. Dynamic Scene Generation  
 - **Real-Time Adaptation**: NPCs and game environments evolve based on player actions.  
 - **Procedural Worlds**: Every interaction leads to a unique, immersive experience.
 
-### **4. Developer-Friendly Framework**  
+### 4. Developer-Friendly Framework  
 - **Built on Eliza**: Leverage the robust, extensible Eliza framework for AI agent development.  
 - **Fully Modular**: Customize NPC behaviors, add new AI models, and extend functionality with ease.  
 - **Web3 Ready**: Plug-and-play support for blockchain networks and decentralized systems.
 
 ---
 
-## **📖 Why MomoAI-NPC-Eliza?**
+## 📖 Why MomoAI-NPC-Eliza?  
 
 Traditional NPCs are static, predictable, and limited by pre-defined rules, making them feel artificial and disconnected. **MomoAI-NPC-Eliza** changes this by integrating:  
 
@@ -44,9 +44,9 @@ We’re building a future where NPCs are no longer "just characters"—they’re
 
 ---
 
-## **🎯 Use Cases**
+## 🎯 Use Cases  
 
-Here are some of the transformative use cases enabled by **MomoAI-NPC-Eliza**:
+Here are some of the transformative use cases enabled by **MomoAI-NPC-Eliza**:  
 
 - **Immersive Game Worlds**: Populate your game with intelligent NPCs that evolve and adapt in real time.  
 - **Decentralized Economies**: Create self-sustaining NPCs capable of trading, crafting, and participating in blockchain-driven economies.  
@@ -55,17 +55,17 @@ Here are some of the transformative use cases enabled by **MomoAI-NPC-Eliza**:
 
 ---
 
-## **🛠️ Quick Start**
+## 🛠️ Quick Start  
 
 Follow these steps to get started with **MomoAI-NPC-Eliza**.
 
-### **Prerequisites**  
+### Prerequisites  
 - **Python** 2.7+  
 - **Node.js** 23+  
 - **pnpm** (Package Manager)  
 - **WSL 2** (For Windows Users)  
 
-### **Installation**  
+### Installation  
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-org/MomoAI-NPC-Eliza.git
@@ -87,7 +87,7 @@ Follow these steps to get started with **MomoAI-NPC-Eliza**.
    pnpm start:client
    ```
 
-### **Configuration**  
+### Configuration  
 - Copy the example environment file and configure it:  
   ```bash
   cp .env.example .env
@@ -98,7 +98,7 @@ Follow these steps to get started with **MomoAI-NPC-Eliza**.
 
 ---
 
-## **📂 Project Structure**
+## 📂 Project Structure  
 
 Here’s an overview of the repository structure:  
 
@@ -122,21 +122,9 @@ MomoAI-NPC-Eliza/
 
 ---
 
-## **🧠 Architecture**
+## 🌟 Roadmap  
 
-The project is built on the **Eliza framework**, with modular components for:
-
-- **Agents**: Define NPC behaviors and interactions.  
-- **Models**: Connect to different AI models like OpenAI, Llama, and Anthropic.  
-- **Services**: Implement Web3 wallets, trading logic, and more.  
-
-For a detailed breakdown, see the [Architecture Documentation](docs/architecture.md).
-
----
-
-## **🌟 Roadmap**
-
-We’re committed to iterative development with regular updates. Here’s what’s coming next:
+We’re committed to iterative development with regular updates. Here’s what’s coming next:  
 
 - **Q1 2025**:  
   - Integrate Web3 wallets into NPCs.  
@@ -154,9 +142,9 @@ For more details, check the [Roadmap](docs/roadmap.md).
 
 ---
 
-## **🤝 Contributing**
+## 🤝 Contributing  
 
-We welcome contributions from the community! Here’s how you can help:
+We welcome contributions from the community! Here’s how you can help:  
 
 1. Fork the repository.  
 2. Create a feature branch:  
@@ -170,7 +158,7 @@ For detailed guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
-## **📞 Community & Support**
+## 📞 Community & Support  
 
 Join the conversation!  
 
@@ -180,15 +168,15 @@ Join the conversation!
 
 ---
 
-## **💡 License**
+## 💡 License  
 
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for more details.
 
 ---
 
-## **⭐ Star Us**
+## ⭐ Star Us  
 
-If you find this project useful, please give us a star 🌟 on GitHub to help us grow!
+If you find this project useful, please give us a star 🌟 on GitHub to help us grow!  
 
 ```plaintext
 git clone https://github.com/your-org/MomoAI-NPC-Eliza.git
@@ -196,7 +184,7 @@ git clone https://github.com/your-org/MomoAI-NPC-Eliza.git
 
 ---
 
-## **Acknowledgments**
+## Acknowledgments  
 
 A huge thanks to the **Eliza framework** team and the open-source community for building tools that inspire innovation. Together, let’s shape the future of gaming!
 ```
